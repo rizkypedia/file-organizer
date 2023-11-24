@@ -1,0 +1,6 @@
+{
+    "dirs": {
+        "source":"/your-home-directory/Downloads",
+        "target":"/your-home-directory/file-collections"
+    }
+}
