@@ -1,0 +1,73 @@
+{
+    "dirMap": {
+        "Videos": [
+            "avi",
+            "mpeg",
+            "mpg",
+            "m4v",
+            "mp4"
+        ],
+        "Images": [
+            "jpg",
+            "jpeg",
+            "gif",
+            "png"
+        ],
+        "Documents": [
+            "doc",
+            "docx",
+            "pdf",
+            "txt",
+            "xlsx",
+            "xls",
+            "csv",
+            "PDF",
+            "pptx",
+            "xml",
+            "mkd",
+            "md"
+        ],
+        "Compressed": [
+            "zip",
+            "gz",
+            "xz",
+            "bz2",
+            "tgz"
+        ],
+        "Software-Packages": [
+            "deb",
+            "dmg",
+            "pkg"
+        ],
+        "Executables": [
+            "exe"
+        ],
+        "HTML": [
+            "html",
+            "HTML"
+        ],
+        "DevStuff": [
+            "sql",
+            "php",
+            "js",
+            "ts",
+            "py",
+            "json",
+            "yml",
+            "yaml"
+        ],
+        "Email":[
+            "ics"
+        ],
+        "Software":[
+            "app",
+            "msi"
+        ],
+        "Shells":[
+            "sh"
+        ],
+        "Iso-Images": [
+            "iso"
+        ]
+    }
+}

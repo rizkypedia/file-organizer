@@ -1,13 +1,10 @@
-from .directoryMapper import directoryMapper
 from .fileExtenstionExtractor import fileExtenstionExtractor
 import shutil
 import os
 
-def moveFile(file, source, dest):
+def moveFile(file, source, dest,dirMapDictionary):
     
-    dictMapper = directoryMapper()
-    
-    for dirname ,fileExtList in dictMapper.items():
+    for dirname ,fileExtList in dirMapDictionary.items():
         fxt = fileExtenstionExtractor(file)
         if (fxt.pop()) in fileExtList:
             if os.path.exists(dest + "/" + dirname)==False:
