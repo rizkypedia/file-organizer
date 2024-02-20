@@ -8,9 +8,10 @@ Python Version >=3.1.0.12
 
 ## Background
 
-If you a have a bunch of files of multiple filetyps in one folder and you want to organize them
-in seperate folders based on their filetype, then this script can help you to manage it. For example you have 
-a lot of files in your download folder and you are too lazy to clean it up. This script helps you with this task.
+If you a have a bunch of files of multiple filetypes in one folder and you want to organize them
+in seperate folders based on their filetype, then this script can help you to manage it. 
+
+For example you have a lot of files in your download folder and you are too lazy to clean it up. This script helps you with this task.
 
 ## Install
 
