@@ -4,7 +4,7 @@ A simple Python Script to organize files
 
 ## Pre Requisits
 
-Python Version >=3.1.0.12
+Python Version >=3.10.12
 
 ## Background
 
